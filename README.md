@@ -1,4 +1,4 @@
-# General-Brownian-Motion
+# Geometric-Brownian-Motion
 # Python program to simulate brownian motion
 # Python code for the plot
 
